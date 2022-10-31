@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="177078a8-cfd5-4eb9-b43d-7e8cfcd3d75c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicioTema1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ejercicioTema1/TiposDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ejercicioTema1/TiposDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ejercicioTema1/TiposDatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +73,18 @@
       <option name="presentableId" value="Default" />
       <updated>1667217077163</updated>
     </task>
+    <task id="LOCAL-00001" summary="JAVA basico Ejercio tema 1">
+      <created>1667218714224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667218714224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JAVA basico Ejercio tema 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA basico Ejercio tema 1" />
   </component>
 </project>
